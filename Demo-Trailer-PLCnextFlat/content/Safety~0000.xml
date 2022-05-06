@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+  <folder name="PROJECT">
+    <file name="Safety.area" id="PROJECT~Safety~0000.area" />
+    <folder name="Logs">
+      <file name="SafetyMessageLog.xml" id="Logs~SafetyMessageLo~0000.xml" />
+    </folder>
+    <folder name="Inventories">
+      <file name="SafetyInventory.xml" id="Inventori~SafetyInve~0000.xml" />
+    </folder>
+    <folder name="Hardware">
+      <folder name="CFG_02C421061171495C930A7D5EBCFA6B41">
+        <folder name="HMI_Server">
+          <folder name="Application" />
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+</content>

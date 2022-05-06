@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+  <file_system name="Safety" id="Safety~0000" />
+  <file name="StorageProperties.xml" id="StorageProperties~0000.xml" />
+  <file name="StorageContent.xml" id="StorageContent~0000.xml" />
+  <folder name="PROJECT">
+    <file name="PROJECT.proj" id="PROJECT~PROJECT~0000.proj" />
+    <folder name="Hardware">
+      <file name="beb419cd-deea-49a5-a067-ea3ce0b8819f.DataLink" id="Hardware~beb419cd-de~0000.DataLink" />
+      <file name="beb419cd-deea-49a5-a067-ea3ce0b8819f.projset" id="Hardware~beb419cd-de~0001.projset" />
+      <file name="beb419cd-deea-49a5-a067-ea3ce0b8819f.Transport" id="Hardware~beb419cd-de~0002.Transport" />
+      <file name="VersionHistory.usermeta" id="Hardware~VersionHist~0000.usermeta" />
+      <file name="Description.rtf" id="Hardware~Description~0000.rtf" />
+      <folder name="CFG_02C421061171495C930A7D5EBCFA6B41">
+        <file name="DataList.dl" id="CFG_02C4210~DataList~0000.dl" />
+        <file name="e46e4e8e-eaef-44ee-92dc-436f7ef678a0.ds" id="CFG_02C42~e46e4e8e-e~0000.ds" />
+        <file name="PlmConfiguration.plmc" id="CFG_02C42~PlmConfigu~0000.plmc" />
+        <folder name="AXLF_Master">
+          <file name="Arp.Io.Axl.ControllerComponent.compmeta" id="AXLF_Mast~Arp.Io.Axl~0000.compmeta" />
+          <file name="Arp.Io.Axl.libmeta" id="AXLF_Mast~Arp.Io.Axl~0001.libmeta" />
+        </folder>
+        <folder name="EIP_Master">
+          <file name="Arp.Io.EthernetIP.libmeta" id="EIP_Maste~Arp.Io.Eth~0000.libmeta" />
+          <file name="ControllerComponent.compmeta" id="EIP_Maste~Controller~0000.compmeta" />
+        </folder>
+        <folder name="HMI_Server">
+          <file name="DataList.dlr4hmi" id="HMI_Server~DataList~0000.dlr4hmi" />
+          <file name="HmiConfiguration.xml" id="HMI_Serve~HmiConfigu~0000.xml" />
+          <folder name="Application">
+            <file name="Navigation.hminav" id="Applicati~Navigation~0000.hminav" />
+            <file name="Variables.hmivar" id="Applicatio~Variables~0000.hmivar" />
+            <folder name="Login.hmi">
+              <file name="Variables.hmivar" id="Login.hmi~Variables~0000.hmivar" />
+              <file name="Definition.hmipagedef" id="Login.hmi~Definition~0000.hmipagedef" />
+              <file name="Parameters.hmiparams" id="Login.hmi~Parameters~0000.hmiparams" />
+              <file name="Definition.hmipagedef.locres" id="Login.hmi~Definition~0001.locres" />
+            </folder>
+            <folder name="Homepage.hmi">
+              <file name="Variables.hmivar" id="Homepage.h~Variables~0000.hmivar" />
+              <file name="Definition.hmipagedef" id="Homepage.~Definition~0000.hmipagedef" />
+              <file name="Parameters.hmiparams" id="Homepage.~Parameters~0000.hmiparams" />
+              <file name="Definition.hmipagedef.locres" id="Homepage.~Definition~0001.locres" />
+            </folder>
+          </folder>
+        </folder>
+        <folder name="IB_Master">
+          <file name="Arp.Io.Ib.ControllerComponent.compmeta" id="IB_Master~Arp.Io.Ib.~0000.compmeta" />
+          <file name="Arp.Io.Ib.libmeta" id="IB_Master~Arp.Io.Ib~0000.libmeta" />
+        </folder>
+        <folder name="IB_RemoteMaster">
+          <file name="Arp.Io.Ib.ControllerComponent.compmeta" id="IB_Remote~Arp.Io.Ib.~0000.compmeta" />
+          <file name="Arp.Io.Ib.libmeta" id="IB_RemoteM~Arp.Io.Ib~0000.libmeta" />
+        </folder>
+        <folder name="PLCnext">
+          <file name="EsmConfiguration.esmc" id="PLCnext~EsmConfigura~0000.esmc" />
+        </folder>
+        <folder name="PN_Master">
+          <file name="Arp.Io.Pn.libmeta" id="PN_Master~Arp.Io.Pn~0000.libmeta" />
+          <file name="ControllerComponent.compmeta" id="PN_Master~Controller~0000.compmeta" />
+        </folder>
+        <folder name="RES_E9EEA59523EA4F6EAAF5B09ADE9B59B6">
+          <file name="Arp.Plc.Eclr.libmeta" id="RES_E9EEA~Arp.Plc.Ec~0000.libmeta" />
+          <file name="DataList.dlr4var" id="RES_E9EEA59~DataList~0000.dlr4var" />
+          <file name="EclrComponent.compmeta" id="RES_E9EEA~EclrCompon~0000.compmeta" />
+          <file name="GlobalVariables.var" id="RES_E9EEA~GlobalVari~0000.var" />
+          <file name="IOConfiguration.ioc" id="RES_E9EEA~IOConfigur~0000.ioc" />
+          <file name="ResourceSettings.set" id="RES_E9EEA~ResourceSe~0000.set" />
+        </folder>
+      </folder>
+    </folder>
+    <folder name="Logical Elements">
+      <file name="GeneratedDataTypes.dt" id="Logical E~GeneratedD~0000.dt" />
+      <folder name="Main.pou">
+        <file name="Description.rtf" id="Main.pou~Description~0000.rtf" />
+        <file name="Metadata.meta" id="Main.pou~Metadata~0000.meta" />
+        <file name="Variables.var" id="Main.pou~Variables~0000.var" />
+        <file name="VersionHistory.usermeta" id="Main.pou~VersionHist~0000.usermeta" />
+        <file name="Description.html" id="Main.pou~Description~0001.html" />
+      </folder>
+      <folder name="SystemHackedWallpaper.jpg">
+        <file name="Source" id="SystemHackedW~Source~0000" />
+        <file name="Thumbnail" id="SystemHack~Thumbnail~0000" />
+      </folder>
+    </folder>
+  </folder>
+</content>

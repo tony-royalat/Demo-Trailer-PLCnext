@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+    <Title>Demo-Trailer-PLCnext</Title>
+    <Identifier>b3ec03bd-118d-4f6d-9707-3f9314971e68</Identifier>
+    <Type>Project</Type>
+    <Requirements>
+        <Item>Areas</Item>
+    </Requirements>
+    <AdditionalProperties>
+        <Property Key="Application" Value="PLCnext Engineer" />
+        <Property Key="SubType" Value="" />
+        <Property Key="ApplicationVersion" Value="5.0.571.0" />
+        <Property Key="ProductVersion" Value="2022.0" />
+    </AdditionalProperties>
+</Properties>
